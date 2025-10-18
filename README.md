@@ -129,7 +129,7 @@ You may modify and redistribute freely with proper credit.
 
 * 🛒 **Store:** [liquid-devs.com](https://liquid-devs.com)
 * 💬 **Discord:** [discord.gg/xkZ7GR5ge6](https://discord.gg/xkZ7GR5ge6)
-* 📦 **GitHub:** [github.com/nm1-Dev/liquid_torch](https://github.com/yourusername/liquid_torch)
+* 📦 **GitHub:** [github.com/nm1-Dev/liquid_torch](https://github.com/nm1-Dev/liquid_torch)
 
 ---
 
@@ -137,3 +137,4 @@ You may modify and redistribute freely with proper credit.
   <sub>Made with ❤️ by <b>Liquid Developments</b> | for FiveM RP servers.</sub>
 
 </p>
+
