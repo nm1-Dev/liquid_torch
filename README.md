@@ -34,7 +34,7 @@
 
 ### 1. Download or Clone
 ```bash
-git clone https://github.com/yourusername/liquid_torch.git
+git clone https://github.com/nm1-Dev/liquid_torch.git
 ````
 
 Place the folder inside your server’s `resources` directory:
@@ -135,4 +135,5 @@ You may modify and redistribute freely with proper credit.
 
 <p align="center">
   <sub>Made with ❤️ by <b>Liquid Developments</b> | for FiveM RP servers.</sub>
+
 </p>
