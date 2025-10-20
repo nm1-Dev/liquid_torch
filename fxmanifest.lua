@@ -10,13 +10,11 @@ shared_script {
 }
 
 client_scripts {
-  'client/custom/framework/*.lua',
   'client/custom/*.lua',
   'client/client.lua'
 }
 
 server_scripts {
-  'server/custom/framework/*.lua',
   'server/server.lua'
 }
 
